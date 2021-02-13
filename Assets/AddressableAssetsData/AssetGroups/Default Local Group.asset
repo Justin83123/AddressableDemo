@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2c88e9cd669fe4e3c97d657b692c74f0
+  m_SerializeEntries:
+  - m_GUID: 2dc42346e5313b34c93d598a61994629
+    m_Address: Assets/Samples/0_InstantiateGameObject/AssetRef/Car_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 512151c1530b99343a884b12ee9c5e1e
+    m_Address: Assets/Samples/0_InstantiateGameObject/Addressable/Car_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ab26596a331d7ee43a3e9d29e2be9f84
+    m_Address: Assets/Samples/0_InstantiateGameObject/Addressable/Car_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9cf49d80d73124f8fa790e693cfc2534
+    m_Address: Assets/Samples/0_InstantiateGameObject/Scenes/Taxi.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 87206d46acf5d4ae7ba6df3974dc7ca8
+    m_Address: Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5cbe55ef7a27a44bf943a1c1faff902c
+    m_Address: Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0d0acac3d62bd4dedb7d0a80e3c6a2a1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3a3db8b59a9944bada9e5936863b7fbd, type: 2}
+    - {fileID: 11400000, guid: e14fd3d92f5484d58a3ebc47cd652fa8, type: 2}

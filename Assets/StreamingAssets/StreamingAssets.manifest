@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1853475218
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bus2
+      Dependencies: {}
