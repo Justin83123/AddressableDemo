@@ -1,7 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1853475218
+CRC: 1598271335
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: bus2
       Dependencies: {}
+    Info_1:
+      Name: logo.sd
+      Dependencies: {}
+    Info_2:
+      Name: logo.hd
+      Dependencies: {}
+    Info_3:
+      Name: cube
+      Dependencies:
+        Dependency_0: logo.hd

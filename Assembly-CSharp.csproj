@@ -66,6 +66,9 @@
   <ItemGroup>
     <Compile Include="Assets\Samples\0_InstantiateGameObject\Script\NewInstantiateGameObject.cs" />
     <Compile Include="Assets\Samples\0_InstantiateGameObject\Script\OldInstantiateGameObject.cs" />
+    <Compile Include="Assets\Samples\1_VariantLabel\Variant\Script\LoadVariant.cs" />
+    <Compile Include="Assets\Samples\2_Remote\Script\LoadFromLocalAndRemote.cs" />
+    <Compile Include="Assets\Samples\3_Label\Script\LoadAllFruit.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.19f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

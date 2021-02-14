@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Local
+  m_EditorClassIdentifier: 
+  m_GroupName: Local
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2bed5889b3ce9467aa9887675dbf45c0
+  m_SerializeEntries:
+  - m_GUID: 47365cc78e5cfad41badc534e3d2b7e1
+    m_Address: Assets/Samples/2_Remote/FBX/Cheese.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 100000, guid: 47365cc78e5cfad41badc534e3d2b7e1, type: 3}
+    m_TargetAsset: {fileID: 100000, guid: 47365cc78e5cfad41badc534e3d2b7e1, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0d0acac3d62bd4dedb7d0a80e3c6a2a1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6d8c7f5d1d10448b5818c89786fb80cb, type: 2}
+    - {fileID: 11400000, guid: 19b04d5a3811244d7958721bc69c8ac2, type: 2}

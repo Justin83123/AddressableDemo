@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Samples/3_Label/3_Label.unity
+    guid: 2e30c2bc1a06e426690e940c7663e4f4
+  - enabled: 1
+    path: Assets/Samples/2_Remote/2_Remote.unity
+    guid: df860f8cbc83d4fa79b8cb57368b10c5
+  - enabled: 1
     path: Assets/Samples/0_InstantiateGameObject/0_InstantiateGameObject.unity
     guid: d0278f4189fb34837b84077801f5c1c3
   - enabled: 1

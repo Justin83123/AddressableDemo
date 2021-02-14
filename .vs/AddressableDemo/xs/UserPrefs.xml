@@ -1,11 +1,9 @@
 ﻿<Properties StartupConfiguration="{C7BCAEF6-199B-ED48-2115-C75A97B66072}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/0_InstantiateGameObject/Script/NewInstantiateGameObject.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/3_Label/Script/LoadAllFruit.cs">
     <Files>
-      <File FileName="Assets/BundleTools.cs" Line="19" Column="6" />
-      <File FileName="Assets/Editor/AssetBundleViewer.cs" Line="1" Column="1" />
-      <File FileName="Assets/LoadPrefabFromAssetBundle.cs" Line="9" Column="6" />
-      <File FileName="Assets/Samples/0_InstantiateGameObject/Script/OldInstantiateGameObject.cs" Line="57" Column="72" />
-      <File FileName="Assets/Samples/0_InstantiateGameObject/Script/NewInstantiateGameObject.cs" Line="22" Column="11" />
+      <File FileName="Assets/Samples/0_InstantiateGameObject/Script/NewInstantiateGameObject.cs" Line="42" Column="6" />
+      <File FileName="Assets/Samples/3_Label/Script/LoadAllFruit.cs" Line="13" Column="35" />
+      <File FileName="Assets/Samples/2_Remote/Script/LoadFromLocalAndRemote.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,8 +13,19 @@
               <Node name="Editor" expanded="True" />
               <Node name="Samples" expanded="True">
                 <Node name="0_InstantiateGameObject" expanded="True">
+                  <Node name="Script" expanded="True" />
+                </Node>
+                <Node name="1_VariantLabel" expanded="True">
+                  <Node name="Variant" expanded="True">
+                    <Node name="Script" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="2_Remote" expanded="True">
+                  <Node name="Script" expanded="True" />
+                </Node>
+                <Node name="3_Label" expanded="True">
                   <Node name="Script" expanded="True">
-                    <Node name="NewInstantiateGameObject.cs" selected="True" />
+                    <Node name="LoadAllFruit.cs" selected="True" />
                   </Node>
                 </Node>
               </Node>
@@ -28,7 +37,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="665759b0-178a-450f-9209-3a8580c257ff" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="52cb3e7d-c6ea-44a5-9d0d-146237ba5414" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

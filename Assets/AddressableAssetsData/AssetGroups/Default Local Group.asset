@@ -35,12 +35,6 @@ MonoBehaviour:
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
-  - m_GUID: 9cf49d80d73124f8fa790e693cfc2534
-    m_Address: Assets/Samples/0_InstantiateGameObject/Scenes/Taxi.unity
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
   - m_GUID: 87206d46acf5d4ae7ba6df3974dc7ca8
     m_Address: Cube.prefab
     m_ReadOnly: 0

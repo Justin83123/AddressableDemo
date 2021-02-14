@@ -8,6 +8,15 @@ public class NewInstantiateGameObject : MonoBehaviour
 {
     public AssetReferenceGameObject assetRef;
 
+    private void Start()
+    {
+        //Debug.Log("BuildTarget: " + UnityEditor.EditorUserBuildSettings.activeBuildTarget);
+        Debug.Log("LocalBuildPath: " + UnityEngine.AddressableAssets.Addressables.BuildPath);
+        Debug.Log("LocalLoadPath: " + UnityEngine.AddressableAssets.Addressables.RuntimePath);
+        //Debug.Log("RemoteBuildPath: " + );
+        //Debug.Log("RemoteLoadPath: " + UnityEngine.AddressableAssets.Addressables.RuntimePath);
+    }
+
     public void InstantiateFromAssetRef()
     {
         if (assetRef != null)
