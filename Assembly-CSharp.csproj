@@ -66,7 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\Samples\0_InstantiateGameObject\Script\NewInstantiateGameObject.cs" />
     <Compile Include="Assets\Samples\0_InstantiateGameObject\Script\OldInstantiateGameObject.cs" />
-    <Compile Include="Assets\Samples\1_VariantLabel\Variant\Script\LoadVariant.cs" />
+    <Compile Include="Assets\Samples\1_Variant\Variant\Script\LoadVariant.cs" />
     <Compile Include="Assets\Samples\2_Remote\Script\LoadFromLocalAndRemote.cs" />
     <Compile Include="Assets\Samples\3_Label\Script\LoadAllFruit.cs" />
     <Reference Include="UnityEngine">
