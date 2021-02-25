@@ -23,14 +23,6 @@ MonoBehaviour:
     m_SerializedLabels: []
     m_MainAsset: {fileID: 100000, guid: fdc7d8dffa381b54cb7740b8761d54c0, type: 3}
     m_TargetAsset: {fileID: 100000, guid: fdc7d8dffa381b54cb7740b8761d54c0, type: 3}
-  - m_GUID: e4151798ca3d04542b8b084cfa1a46aa
-    m_Address: Assets/Samples/3_Label/Prefab/Hamburger.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_MainAsset: {fileID: 1879383213448561305, guid: e4151798ca3d04542b8b084cfa1a46aa,
-      type: 3}
-    m_TargetAsset: {fileID: 1879383213448561305, guid: e4151798ca3d04542b8b084cfa1a46aa,
-      type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0d0acac3d62bd4dedb7d0a80e3c6a2a1, type: 2}
   m_SchemaSet:

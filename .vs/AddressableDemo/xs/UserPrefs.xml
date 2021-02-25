@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{C7BCAEF6-199B-ED48-2115-C75A97B66072}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/3_Label/Script/LoadAllFruit.cs">
     <Files>
-      <File FileName="Assets/Samples/0_InstantiateGameObject/Script/NewInstantiateGameObject.cs" Line="14" Column="93" />
+      <File FileName="Assets/Samples/0_InstantiateGameObject/Script/NewInstantiateGameObject.cs" Line="27" Column="38" />
       <File FileName="Assets/Samples/0_InstantiateGameObject/Script/OldInstantiateGameObject.cs" Line="8" Column="22" />
-      <File FileName="Assets/Samples/3_Label/Script/LoadAllFruit.cs" Line="33" Column="1" />
-      <File FileName="Assets/Samples/2_Remote/Script/LoadFromLocalAndRemote.cs" Line="13" Column="1" />
-      <File FileName="Assets/Samples/1_Variant/Variant/Script/LoadVariant.cs" Line="22" Column="1" />
+      <File FileName="Assets/Samples/3_Label/Script/LoadAllFruit.cs" Line="24" Column="14" />
+      <File FileName="Assets/Samples/2_Remote/Script/LoadFromLocalAndRemote.cs" Line="16" Column="124" />
+      <File FileName="Assets/Samples/1_Variant/Variant/Script/LoadVariant.cs" Line="18" Column="71" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -39,7 +39,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e1980670-3b31-4994-b9a9-d95e8f31d88d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9eb18d9a-244f-4e5a-846c-3fe5525fd1c9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

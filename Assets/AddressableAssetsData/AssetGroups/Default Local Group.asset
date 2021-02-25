@@ -27,36 +27,28 @@ MonoBehaviour:
     m_Address: Assets/Samples/0_InstantiateGameObject/Addressable/Car_3.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 1646981259178978, guid: 512151c1530b99343a884b12ee9c5e1e,
-      type: 3}
-    m_TargetAsset: {fileID: 1646981259178978, guid: 512151c1530b99343a884b12ee9c5e1e,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ab26596a331d7ee43a3e9d29e2be9f84
     m_Address: Assets/Samples/0_InstantiateGameObject/Addressable/Car_4.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 1646981259178978, guid: ab26596a331d7ee43a3e9d29e2be9f84,
-      type: 3}
-    m_TargetAsset: {fileID: 1646981259178978, guid: ab26596a331d7ee43a3e9d29e2be9f84,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 87206d46acf5d4ae7ba6df3974dc7ca8
     m_Address: Cube.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - HDLogo
-    m_MainAsset: {fileID: 4139389516409281560, guid: 87206d46acf5d4ae7ba6df3974dc7ca8,
-      type: 3}
-    m_TargetAsset: {fileID: 4139389516409281560, guid: 87206d46acf5d4ae7ba6df3974dc7ca8,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 5cbe55ef7a27a44bf943a1c1faff902c
     m_Address: Cube.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - SDLogo
-    m_MainAsset: {fileID: 4887648646801094443, guid: 5cbe55ef7a27a44bf943a1c1faff902c,
-      type: 3}
-    m_TargetAsset: {fileID: 4887648646801094443, guid: 5cbe55ef7a27a44bf943a1c1faff902c,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 9cf49d80d73124f8fa790e693cfc2534
     m_Address: Assets/Samples/0_InstantiateGameObject/Scenes/Taxi.unity
     m_ReadOnly: 0

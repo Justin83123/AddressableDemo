@@ -29,11 +29,18 @@ MonoBehaviour:
   - m_GUID: 0101f7eca74ab4379b37dd2e6c0598c7
     m_Address: Assets/Samples/3_Label/Prefab/Olive.prefab
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - fruit
+    m_SerializedLabels: []
     m_MainAsset: {fileID: 5951579416814977011, guid: 0101f7eca74ab4379b37dd2e6c0598c7,
       type: 3}
     m_TargetAsset: {fileID: 5951579416814977011, guid: 0101f7eca74ab4379b37dd2e6c0598c7,
+      type: 3}
+  - m_GUID: e4151798ca3d04542b8b084cfa1a46aa
+    m_Address: Assets/Samples/3_Label/Prefab/Hamburger.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1879383213448561305, guid: e4151798ca3d04542b8b084cfa1a46aa,
+      type: 3}
+    m_TargetAsset: {fileID: 1879383213448561305, guid: e4151798ca3d04542b8b084cfa1a46aa,
       type: 3}
   - m_GUID: 5e6a7fdd509fd47ce906c29c40f358bf
     m_Address: Assets/Samples/3_Label/Prefab/Cherry.prefab
@@ -49,8 +56,10 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - fruit
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 8805123796434194972, guid: 5e7641e3703384828945e7611479270d,
+      type: 3}
+    m_TargetAsset: {fileID: 8805123796434194972, guid: 5e7641e3703384828945e7611479270d,
+      type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0d0acac3d62bd4dedb7d0a80e3c6a2a1, type: 2}
   m_SchemaSet:
